@@ -303,4 +303,3 @@ This repository is for education and authorised security testing only. Perform r
 ---
 
 **Training:** Networkwalks Cybersecurity Program – Week 02  
-**Instructor reference in the project report:** Waqas Karim CCIE – [LinkedIn](https://www.linkedin.com/in/waqaskarim/)
