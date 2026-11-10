@@ -2,7 +2,7 @@
 
 A practical cybersecurity lab completed as part of the **Networkwalks Cybersecurity Program (Batch B084)**. This week focused on collecting publicly available information about a domain and discovering active devices on a private lab network.
 
-> **Author:** Emmanuel John  
+> **Author:** Md. Sibgatur Rahman Efti  
 > **Program:** Networkwalks – Cybersecurity Program, B084  
 > **Report date:** 09 November 2026  
 > **Modules:** W2-PM1 (Multiple Kali Tools) and W2-PM5 (Zenmap Scanning)
